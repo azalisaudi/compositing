@@ -1,5 +1,4 @@
-# compositing
-Image Composition / Blending
+# Image Compositing / Blending
 
 Please cite:
 
